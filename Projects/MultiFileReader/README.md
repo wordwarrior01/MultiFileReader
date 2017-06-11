@@ -18,18 +18,18 @@ User always has to pass 1 or 2 parameters - input and optionally output.
 
 ## Example 
 
-# python main.py -i "data/file.yml"
-# outputs 900
+** python main.py -i "data/file.yml" **
+outputs 900
 
 or 
 
-# python main.py -i "file.yml" - o "result.txt"
-# outputs 900
+** python main.py -i "file.yml" - o "result.txt" **
+outputs 900
 
 or
 
-# python main.py --input="data/file.xml" --output="results/result.txt"
-# creates results/result.txt and puts a number 900 as a content
+** python main.py --input="data/file.xml" --output="results/result.txt" **
+creates results/result.txt and puts a number 900 as a content
 
 ## Setup 
 
