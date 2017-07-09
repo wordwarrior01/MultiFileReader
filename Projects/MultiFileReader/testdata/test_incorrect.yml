@@ -1,0 +1,6 @@
+users:
+  - name: John
+    value: 500
+  - name: Mark
+    active: true
+    value: 250

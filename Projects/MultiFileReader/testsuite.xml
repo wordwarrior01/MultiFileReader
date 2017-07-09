@@ -1,0 +1,5 @@
+<testsuites>
+    <testsuite name="MultiFileReaderTests">
+        <directory suffix="test.php">modules</directory>
+    </testsuite>
+</testsuites>

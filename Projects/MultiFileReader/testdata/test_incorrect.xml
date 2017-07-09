@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<users>
+    <user>
+        <name>John</name>
+        <value>500</value>
+    </user>
+    <user>
+        <name>Mark</name>
+        <active>true</active>
+        <value>250</value>
+    </user>
+</users>
