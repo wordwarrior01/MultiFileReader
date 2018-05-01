@@ -1,0 +1,13 @@
+Requirements:
+=============
+I need a simple app for an NGO to promote their activities and give them an option to reach out the world and present to them. This will enable them to get more donors which would in turn help them to get the necessary finance to fund their activities which bring joy to the children's faces.
+
+
+Scope: 
+======
+i have thought of creating a simple app which has two activities . 1. image gallery to show the pictures of the activities that take place and the second one will come in the play when u click on the picture and will download the information which would be in xml json or yaml format and have it displayed on the screen
+
+
+Budget: 
+=======
+2000 Indian Rupees
